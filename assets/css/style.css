@@ -1,0 +1,25 @@
+body{
+	font-size: 18px;
+    color: yellow;
+    text-align: center;
+    padding-top: 250px;
+    height: 100%; 
+    font-family: arial, sans-serif;
+	background-image: url(https://i.ytimg.com/vi/D3fKX9qQAOA/maxresdefault.jpg);
+}
+
+#game{
+	text-align: left;
+}
+
+.wrapper {
+	min-height: 100%;
+	min-width: 100%;
+}
+
+#container{
+	width: 100%;
+	max-width: 960px;
+	clear: both;	
+}
+
